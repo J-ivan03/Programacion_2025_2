@@ -1,5 +1,5 @@
----
-title: "riadme"
-format: html
----
+Repositorio de programacion y analisis de Datos
+
+> Fica 2025-2
+
 
